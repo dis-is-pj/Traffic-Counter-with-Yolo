@@ -4,3 +4,5 @@ Before running the code, download the weights trained on traffic images from thi
 After downloading the weights in parent directory, make sure you have installed OpenCV.
 
 It takes path to the traffic image as input and gives the number two wheeler and four wheeler detected in the image.
+
+YouTube : https://www.youtube.com/watch?v=XuHJb19UT3o&feature=youtu.be
